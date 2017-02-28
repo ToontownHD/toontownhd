@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "play.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -203,7 +203,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -236,7 +236,7 @@
           "title2": "Go On Adventures!",
           "subtitle2": "",
           "caption2": "There Are Many Playgrounds! You will eventually manage to have visited them all! Were hopeally going to remaster them all :)",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/4930ca-736379ac73b34ba88609e2a4617b02d8mv2-600x456.png",
